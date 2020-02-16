@@ -1,4 +1,3 @@
-# my-problem-solving-solutions-on_leetcode.com
 <h3> My pronlem solving solution on leetcode.com </h3>
 It is the codes and the link for the problem i solved and i solving i will update this frequently with my new solutions .
  
