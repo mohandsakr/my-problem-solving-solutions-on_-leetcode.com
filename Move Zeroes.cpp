@@ -3,7 +3,7 @@
 problem link :https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/
 problem name:  Move Zeroes
 status: accepted
-author : moahnd sakr
+author : mohand sakr
 ** */
 
 class Solution {
