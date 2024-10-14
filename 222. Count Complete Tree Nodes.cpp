@@ -1,8 +1,8 @@
 /*
-problem link : https://leetcode.com/problems/maximum-depth-of-binary-tree/
+problem link : https://leetcode.com/problems/count-complete-tree-nodes/description/
 problem name: 222. Count Complete Tree Nodes
 Status: Accepted.
-Author : Mohand sakr.
+Author: Mohand sakr.
 ** */
 
 /**
